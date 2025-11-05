@@ -26,6 +26,7 @@ Validación por simulación: probar las predicciones de la red con los datos de 
 
 4) Código:
 Implementar red neuronal con 3 entradas y 5 salidas para navegación autónoma
+
 Cristian Sasinka: https://colab.research.google.com/drive/144FvNo_sEW4GMvAhU2luXV61SOVEJF3m?usp=sharing
 
 Facundo Castillo: https://colab.research.google.com/drive/1WqVbn1Ufexyrg4WUETd0p7B3bwFFrEfx#scrollTo=RxIKFkDOFrKM
