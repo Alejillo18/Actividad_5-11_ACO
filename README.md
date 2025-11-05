@@ -25,6 +25,7 @@ Modularización: separar la parte ML (entrenamiento + exportación) de la parte 
 Validación por simulación: probar las predicciones de la red con los datos de entrenamiento y con entradas nuevas para comprobar comportamiento antes de conectar motores.
 
 3) Ejecutar el colab para entrenar la red neuronal
+
 Cristian Sasinka: https://colab.research.google.com/drive/1KmYFxev4ETwZrcQcgeLVZUxIJIUz0NrC?usp=sharing
 
 4) Código:
