@@ -24,8 +24,14 @@ Modularización: separar la parte ML (entrenamiento + exportación) de la parte 
 
 Validación por simulación: probar las predicciones de la red con los datos de entrenamiento y con entradas nuevas para comprobar comportamiento antes de conectar motores.
 
+3- Ejecutar el colab para entrenar la red neuronal
+https://colab.research.google.com/drive/1H_dQqK06YtcyZjUZ3rC0eTAG_ZnIHxY2#scrollTo=MP_0hgZcDdPD
+
+
 4) Código:
 Implementar red neuronal con 3 entradas y 5 salidas para navegación autónoma
 Cristian Sasinka: https://colab.research.google.com/drive/144FvNo_sEW4GMvAhU2luXV61SOVEJF3m?usp=sharing
 
 Facundo Castillo: https://colab.research.google.com/drive/1WqVbn1Ufexyrg4WUETd0p7B3bwFFrEfx#scrollTo=RxIKFkDOFrKM
+
+Heredia Leandro: https://colab.research.google.com/drive/1Uug1m1gzoPNKUK41NzzSqH998EPOLlKW#scrollTo=0OtDRTtdJokm
