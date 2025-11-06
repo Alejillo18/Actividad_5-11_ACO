@@ -39,4 +39,4 @@ Heredia Leandro: https://colab.research.google.com/drive/1Uug1m1gzoPNKUK41NzzSqH
 
 Ybalo Vicente: https://colab.research.google.com/drive/18WCQ3VHW_KnZWJCqJz4MhHOMHYvYHnOy?usp=sharing
 
-Oviedo Alejo:
+Oviedo Alejo: https://colab.research.google.com/drive/19aTQ0Dwh4gNwwluzmK0sSXdhkegU6n9A?usp=sharing
